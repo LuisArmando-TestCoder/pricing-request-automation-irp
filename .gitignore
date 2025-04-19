@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# Node modules (common practice, even if using Deno)
+node_modules/
+
+# Deno lock file (optional, depends on workflow)
+# deno.lock
+
+# Build artifacts (if any)
+# build/
+# dist/
